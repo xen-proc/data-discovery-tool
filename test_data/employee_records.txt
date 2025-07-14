@@ -1,0 +1,25 @@
+Employee Records
+------------------
+Name: John Smith
+Position: Software Developer
+DOB: 04/12/1985
+SSN: 123-45-6789
+Annual Salary: $95,000
+
+Name: Sarah Johnson
+Position: Project Manager
+DOB: 08/23/1979
+SSN: 987-65-4321
+Annual Salary: $110,000
+
+Name: Michael Lee
+Position: System Administrator
+DOB: 11/05/1990
+SSN: 456-78-9012
+Annual Salary: $85,000
+
+Name: Jessica Williams
+Position: Data Analyst
+DOB: 02/17/1988
+SSN: 789-01-2345
+Annual Salary: $92,000

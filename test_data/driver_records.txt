@@ -1,0 +1,25 @@
+Driver License Records
+---------------------
+Name: Robert Thompson
+License #: B1234567
+Issue Date: 01/15/2022
+Expiration Date: 01/15/2027
+Address: 234 Elm Street, Lakeside, CA 92040
+
+Name: Patricia Garcia
+License #: G9876543
+Issue Date: 07/22/2020
+Expiration Date: 07/22/2025
+Address: 567 Maple Avenue, Hilltown, CA 93210
+
+Name: William Turner
+License #: T54-32109
+Issue Date: 03/05/2021
+Expiration Date: 03/05/2026
+Address: 890 Oak Boulevard, Riverside, CA 92501
+
+Name: Elizabeth Brown
+License #: D12-98765
+Issue Date: 11/17/2023
+Expiration Date: 11/17/2028
+Address: 321 Pine Lane, Oceanview, CA 92054

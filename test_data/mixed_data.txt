@@ -1,0 +1,23 @@
+Customer and Employee Records - CONFIDENTIAL
+----------------------------------------
+Client: Jordan Miller
+Account #: AC-45678
+SSN: 567-89-0123
+Credit Card: 4444 3333 2222 1111
+Driver's License: T23-456789
+Contact: j.miller@example.com
+
+Employee: Casey Parker
+Employee ID: E-98765
+SSN: 321-65-9870
+Company Card: 5555-6666-7777-8888
+Driver's License: P45-123456
+Contact: casey.p@company.com
+
+Vendor: Sam Rodriguez
+Vendor ID: V-12345
+Tax ID: 123-45-6789
+Payment Method: Bank Transfer
+Account: 9876543210
+Routing: 021000021
+Contact: srodriguez@vendor.example.com

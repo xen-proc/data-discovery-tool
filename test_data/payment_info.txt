@@ -1,0 +1,25 @@
+Customer Payment Information
+---------------------------
+Customer: Alex Rodriguez
+Email: alex.r@example.com
+Credit Card: 4111 1111 1111 1111
+Expiration: 05/25
+Billing Address: 123 Main St, Anytown, CA 94102
+
+Customer: Jamie Wilson
+Email: jwilson@example.com
+Credit Card: 5500-0000-0000-0004
+Expiration: 12/24
+Billing Address: 456 Oak Ave, Somecity, CA 94103
+
+Customer: Taylor Greene
+Email: tgreene@example.com
+Credit Card: 340000000000009
+Expiration: 09/26
+Billing Address: 789 Pine Blvd, Othercity, CA 94104
+
+Customer: Morgan Smith
+Email: msmith@example.com
+Credit Card: 6011000990139424
+Expiration: 03/27
+Billing Address: 101 Redwood Dr, Newcity, CA 94105
