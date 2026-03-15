@@ -9,7 +9,7 @@ setup(
     name="data_discovery",
     version="0.1.0",
     description="A tool for discovering sensitive data in files",
-    author="Shawn Paul & Claude",
+    author="Shawn Paul",
     packages=find_packages(),
     install_requires=[
         "PyPDF2>=3.0.0",

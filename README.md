@@ -2,7 +2,7 @@
 
 A Python tool for detecting sensitive personally identifiable information (PII) in files. The tool scans both text files and PDFs to identify patterns like Social Security Numbers, credit card numbers, and driver's license numbers.
 
-Primarily built for education and learning purposes. Nearly all of the code was written by Claude, with minor modifications by me.
+Primarily built for education and learning purposes. 
 
 ## Features
 
